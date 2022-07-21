@@ -1,0 +1,18 @@
+.node{
+    display: inline-block;
+    padding-inline: 1em;
+}
+
+.spacer{
+    display: flex;
+    justify-content: center;
+}
+
+.value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 0.5em;
+    border: black 1px solid;
+    border-radius: 50%;
+}
